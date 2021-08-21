@@ -1,6 +1,6 @@
 No olvides desactivar la verificacion en 2 pasos ede tu correo electronico gmail para usar el servidor SMTP
 link servidor SMTP gmail: https://myaccount.google.com/lesssecureapps?pli=1&rapt=AEjHL4NJ5YUMSuOD_bRQKIh7258bX6hAr01q4RCjI6iX_qr8JaZZrzfR2Dk3EpjCDpd_9hk8147K_gepvYhr2vQCW_68p91ckA
 
-no olvides instalar el modulo pywhatkit antes de importar la libreria
+No olvides instalar el modulo pywhatkit antes de importar la libreria
 comando: pip install pywhatkit 
 o desde el link: https://pypi.org/project/pywhatkit/
